@@ -1,5 +1,5 @@
 # Change these first
-owner: version.do # Your GitHub organization or username, where this repository lives
+owner: version-do # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
@@ -11,9 +11,6 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-    
- assignees:
-  -BryanOsvaldo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
