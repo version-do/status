@@ -40,19 +40,19 @@
     "url": "https://qa.deparenpar.edu.do",
     "icon": "https://favicons.githubusercontent.com/qa.deparenpar.edu.do",
     "slug": "de-par-en-par-qa-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 279,
-    "timeWeek": 321,
-    "timeMonth": 321,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 317,
+    "timeDay": 284,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2022-03-07": 0
+      "2022-03-07": 11
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-07": 286,
+      "2022-03-07": 297,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1173
