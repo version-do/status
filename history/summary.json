@@ -40,18 +40,20 @@
     "url": "https://qa.deparenpar.edu.do",
     "icon": "https://favicons.githubusercontent.com/qa.deparenpar.edu.do",
     "slug": "de-par-en-par-qa-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 350,
-    "timeWeek": 344,
-    "timeMonth": 344,
-    "timeYear": 344,
-    "dailyMinutesDown": {}
+    "time": 321,
+    "timeDay": 279,
+    "timeWeek": 321,
+    "timeMonth": 321,
+    "timeYear": 321,
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   },
   {
     "name": "De Par en Par (UAT Server)",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-07": 51,
+      "2022-03-07": 286,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1173
