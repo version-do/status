@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 880,
-    "timeWeek": 804,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "time": 857,
+    "timeDay": 876,
+    "timeWeek": 758,
+    "timeMonth": 857,
+    "timeYear": 857,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/dev.deparenpar.edu.do",
     "slug": "de-par-en-par-dev-server",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 357,
-    "timeDay": 389,
-    "timeWeek": 355,
+    "timeDay": 381,
+    "timeWeek": 357,
     "timeMonth": 357,
     "timeYear": 357,
-    "dailyMinutesDown": {
-      "2022-03-11": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "De Par en Par (QA Server)",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 405,
-    "timeWeek": 300,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "time": 313,
+    "timeDay": 327,
+    "timeWeek": 293,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-11": 1257,
+      "2022-03-12": 49,
+      "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -93,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 309,
-    "timeWeek": 288,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "time": 314,
+    "timeDay": 382,
+    "timeWeek": 289,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -111,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 330,
-    "timeWeek": 362,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "time": 381,
+    "timeDay": 474,
+    "timeWeek": 368,
+    "timeMonth": 381,
+    "timeYear": 381,
     "dailyMinutesDown": {}
   }
 ]
