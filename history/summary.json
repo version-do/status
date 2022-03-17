@@ -22,18 +22,20 @@
     "url": "https://dev.deparenpar.edu.do",
     "icon": "https://favicons.githubusercontent.com/dev.deparenpar.edu.do",
     "slug": "de-par-en-par-dev-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 147,
-    "timeWeek": 339,
-    "timeMonth": 342,
-    "timeYear": 342,
-    "dailyMinutesDown": {}
+    "time": 346,
+    "timeDay": 281,
+    "timeWeek": 347,
+    "timeMonth": 346,
+    "timeYear": 346,
+    "dailyMinutesDown": {
+      "2022-03-17": 0
+    }
   },
   {
     "name": "De Par en Par (QA Server)",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-17": 53,
+      "2022-03-17": 786,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
