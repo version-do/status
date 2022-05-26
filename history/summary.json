@@ -25,12 +25,12 @@
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "66.90%",
-    "uptimeWeek": "94.95%",
+    "uptimeWeek": "94.96%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.56%",
     "time": 310,
-    "timeDay": 249,
-    "timeWeek": 255,
+    "timeDay": 213,
+    "timeWeek": 249,
     "timeMonth": 290,
     "timeYear": 310,
     "dailyMinutesDown": {
@@ -45,19 +45,19 @@
     "url": "https://qa.deparenpar.edu.do",
     "icon": "https://favicons.githubusercontent.com/qa.deparenpar.edu.do",
     "slug": "de-par-en-par-qa-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "84.06%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.81%",
     "time": 291,
-    "timeDay": 316,
-    "timeWeek": 253,
+    "timeDay": 307,
+    "timeWeek": 257,
     "timeMonth": 276,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 230
     }
   },
   {
@@ -77,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 824,
+      "2022-05-26": 1053,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
