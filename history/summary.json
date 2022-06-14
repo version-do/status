@@ -80,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 1432,
+      "2022-06-14": 59,
+      "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
@@ -207,19 +208,19 @@
     "url": "https://kura.epsi.com.do/",
     "icon": "https://favicons.githubusercontent.com/kura.epsi.com.do",
     "slug": "ku-ra-production-server",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 337,
     "timeDay": 431,
     "timeWeek": 403,
     "timeMonth": 328,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2022-06-13": 10
+      "2022-06-14": 0
     }
   }
 ]
