@@ -4,7 +4,7 @@
     "url": "https://version.do/",
     "icon": "https://favicons.githubusercontent.com/version.do",
     "slug": "version-do-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 875,
     "timeMonth": 798,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "De Par en Par (DEV Server)",
@@ -80,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 69,
+      "2022-06-21": 408,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -218,12 +220,12 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.71%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.91%",
     "time": 336,
     "timeDay": 443,
-    "timeWeek": 331,
+    "timeWeek": 343,
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
