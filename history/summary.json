@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/version.do",
     "slug": "version-do-landing-page",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 782,
-    "timeDay": 1287,
-    "timeWeek": 977,
-    "timeMonth": 826,
-    "timeYear": 782,
-    "dailyMinutesDown": {
-      "2022-06-21": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 780,
+    "timeDay": 1125,
+    "timeWeek": 954,
+    "timeMonth": 815,
+    "timeYear": 780,
+    "dailyMinutesDown": {}
   },
   {
     "name": "De Par en Par (DEV Server)",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.61%",
-    "time": 308,
-    "timeDay": 351,
-    "timeWeek": 327,
-    "timeMonth": 293,
-    "timeYear": 308,
+    "time": 307,
+    "timeDay": 167,
+    "timeWeek": 311,
+    "timeMonth": 291,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2022-06-10": 29,
       "2022-06-08": 28,
@@ -56,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.85%",
-    "time": 291,
-    "timeDay": 372,
-    "timeWeek": 309,
-    "timeMonth": 286,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 189,
+    "timeWeek": 302,
+    "timeMonth": 284,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2022-05-26": 230
     }
@@ -82,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 421,
+      "2022-06-22": 76,
+      "2022-06-21": 1440,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -205,11 +204,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 389,
-    "timeWeek": 293,
-    "timeMonth": 267,
-    "timeYear": 271,
+    "time": 269,
+    "timeDay": 59,
+    "timeWeek": 265,
+    "timeMonth": 264,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
@@ -223,11 +222,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.91%",
-    "time": 336,
-    "timeDay": 443,
-    "timeWeek": 343,
-    "timeMonth": 336,
-    "timeYear": 336,
+    "time": 335,
+    "timeDay": 153,
+    "timeWeek": 324,
+    "timeMonth": 331,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2022-06-14": 140
     }
