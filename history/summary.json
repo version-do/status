@@ -4,18 +4,19 @@
     "url": "https://version.do/",
     "icon": "https://icons.duckduckgo.com/ip3/version.do.ico",
     "slug": "version-do-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 872,
+    "time": 873,
     "timeDay": 1111,
     "timeWeek": 1090,
     "timeMonth": 1141,
     "timeYear": 913,
     "dailyMinutesDown": {
+      "2023-10-21": 0,
       "2022-12-09": 234
     }
   },
