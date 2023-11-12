@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 893,
-    "timeDay": 1170,
-    "timeWeek": 1171,
-    "timeMonth": 1219,
-    "timeYear": 944,
+    "time": 894,
+    "timeDay": 1142,
+    "timeWeek": 1149,
+    "timeMonth": 1227,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2022-12-09": 234
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "97.04%",
     "uptimeYear": "98.61%",
     "time": 271,
-    "timeDay": 155,
-    "timeWeek": 245,
-    "timeMonth": 270,
+    "timeDay": 162,
+    "timeWeek": 240,
+    "timeMonth": 269,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2023-10-16": 850,
@@ -56,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-qa-server",
     "status": "up",
-    "uptime": "91.99%",
+    "uptime": "92.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.04%",
-    "uptimeYear": "89.27%",
+    "uptimeYear": "89.53%",
     "time": 267,
-    "timeDay": 168,
-    "timeWeek": 242,
-    "timeMonth": 266,
+    "timeDay": 151,
+    "timeWeek": 239,
+    "timeMonth": 265,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2023-10-16": 850,
@@ -110,8 +110,7 @@
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
-      "2022-11-13": 1440,
-      "2022-11-12": 1440
+      "2022-11-13": 1440
     }
   },
   {
@@ -120,15 +119,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uat.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-uat-server",
     "status": "up",
-    "uptime": "72.00%",
+    "uptime": "72.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.92%",
-    "uptimeYear": "97.00%",
-    "time": 269,
-    "timeDay": 155,
-    "timeWeek": 233,
-    "timeMonth": 253,
+    "uptimeYear": "97.28%",
+    "time": 268,
+    "timeDay": 85,
+    "timeWeek": 217,
+    "timeMonth": 250,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2023-10-16": 900,
@@ -145,8 +144,7 @@
       "2022-12-16": 789,
       "2022-12-15": 662,
       "2022-11-14": 1350,
-      "2022-11-13": 1440,
-      "2022-11-12": 1440
+      "2022-11-13": 1440
     }
   },
   {
@@ -161,8 +159,8 @@
     "uptimeMonth": "96.95%",
     "uptimeYear": "99.70%",
     "time": 267,
-    "timeDay": 122,
-    "timeWeek": 214,
+    "timeDay": 124,
+    "timeWeek": 211,
     "timeMonth": 240,
     "timeYear": 278,
     "dailyMinutesDown": {
@@ -184,8 +182,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 159,
-    "timeWeek": 247,
+    "timeDay": 151,
+    "timeWeek": 242,
     "timeMonth": 285,
     "timeYear": 326,
     "dailyMinutesDown": {}
