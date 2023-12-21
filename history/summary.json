@@ -4,9 +4,9 @@
     "url": "https://version.do/",
     "icon": "https://icons.duckduckgo.com/ip3/version.do.ico",
     "slug": "version-do-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1007,
     "timeMonth": 1228,
     "timeYear": 1002,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-21": 0
+    }
   },
   {
     "name": "De Par en Par (DEV Server)",
@@ -52,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-qa-server",
     "status": "up",
-    "uptime": "92.48%",
+    "uptime": "92.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -81,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uat.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-uat-server",
     "status": "up",
-    "uptime": "73.71%",
+    "uptime": "73.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
