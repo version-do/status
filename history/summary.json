@@ -4,19 +4,19 @@
     "url": "https://version.do/",
     "icon": "https://icons.duckduckgo.com/ip3/version.do.ico",
     "slug": "version-do-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 955,
-    "timeDay": 1443,
-    "timeWeek": 1268,
-    "timeMonth": 1065,
-    "timeYear": 1020,
+    "time": 956,
+    "timeDay": 1433,
+    "timeWeek": 1287,
+    "timeMonth": 1076,
+    "timeYear": 1021,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 7
     }
   },
   {
