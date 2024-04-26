@@ -4,19 +4,19 @@
     "url": "https://version.do/",
     "icon": "https://icons.duckduckgo.com/ip3/version.do.ico",
     "slug": "version-do-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 3169,
-    "timeWeek": 1521,
-    "timeMonth": 1291,
-    "timeYear": 1135,
+    "time": 1045,
+    "timeDay": 2315,
+    "timeWeek": 1420,
+    "timeMonth": 1270,
+    "timeYear": 1134,
     "dailyMinutesDown": {
-      "2024-04-26": 2
+      "2024-04-26": 8
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-04-26": 1367,
+      "2024-04-26": 1374,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-04-26": 1367,
+      "2024-04-26": 1374,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-04-26": 1367,
+      "2024-04-26": 1374,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -244,7 +244,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/red.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-production-server",
     "status": "down",
-    "uptime": "93.60%",
+    "uptime": "93.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-04-26": 1367,
+      "2024-04-26": 1375,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
