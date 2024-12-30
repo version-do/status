@@ -4,19 +4,19 @@
     "url": "https://version.do/",
     "icon": "https://icons.duckduckgo.com/ip3/version.do.ico",
     "slug": "version-do-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1192,
-    "timeDay": 1589,
-    "timeWeek": 1629,
-    "timeMonth": 1354,
-    "timeYear": 1150,
+    "timeDay": 1250,
+    "timeWeek": 1557,
+    "timeMonth": 1340,
+    "timeYear": 1149,
     "dailyMinutesDown": {
-      "2024-12-30": 0
+      "2024-12-30": 19
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-12-30": 750,
+      "2024-12-30": 768,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -350,7 +350,7 @@
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-12-30": 750,
+      "2024-12-30": 768,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -664,7 +664,7 @@
     "timeMonth": 0,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-12-30": 750,
+      "2024-12-30": 768,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -981,7 +981,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-12-30": 750,
+      "2024-12-30": 768,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
