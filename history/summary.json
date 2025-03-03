@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-03-03": 1020,
+      "2025-03-03": 1031,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-03": 1020,
+      "2025-03-03": 1031,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-03": 1020,
+      "2025-03-03": 1031,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1158,7 +1158,7 @@
     "timeMonth": 0,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-03-03": 1020,
+      "2025-03-03": 1031,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1520,19 +1520,19 @@
     "url": "https://kura.epsi.com.do/",
     "icon": "https://icons.duckduckgo.com/ip3/kura.epsi.com.do.ico",
     "slug": "ku-ra-production-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
+    "time": 290,
     "timeDay": 297,
     "timeWeek": 319,
     "timeMonth": 297,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-03-03": 7
+      "2025-03-03": 0
     }
   }
 ]
