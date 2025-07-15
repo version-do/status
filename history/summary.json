@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 771,
-    "timeDay": 164,
-    "timeWeek": 175,
+    "time": 770,
+    "timeDay": 180,
+    "timeWeek": 182,
     "timeMonth": 258,
-    "timeYear": 647,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2024-12-30": 49
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-dev-server",
     "status": "down",
-    "uptime": "59.70%",
+    "uptime": "59.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 233,
+    "time": 235,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 18,
+      "2025-07-15": 18,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -399,8 +400,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-qa-server",
     "status": "down",
-    "uptime": "56.19%",
+    "uptime": "56.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 228,
+    "time": 230,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 18,
+      "2025-07-15": 18,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -783,8 +784,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -793,18 +793,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uat.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-uat-server",
     "status": "down",
-    "uptime": "45.91%",
+    "uptime": "45.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 224,
+    "time": 229,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 18,
+      "2025-07-15": 18,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -1167,8 +1168,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -1177,18 +1177,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/red.deparenpar.edu.do.ico",
     "slug": "de-par-en-par-production-server",
     "status": "down",
-    "uptime": "59.82%",
+    "uptime": "59.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 202,
+    "time": 209,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 18,
+      "2025-07-15": 18,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -1551,8 +1552,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
@@ -1567,10 +1567,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 221,
-    "timeWeek": 298,
-    "timeMonth": 322,
-    "timeYear": 294,
+    "timeDay": 399,
+    "timeWeek": 322,
+    "timeMonth": 326,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   }
 ]
